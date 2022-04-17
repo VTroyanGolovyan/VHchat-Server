@@ -1,0 +1,96 @@
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:11 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:52:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/wqymrfae/public_html/vh/image_server/db/db.php on line 2
+[23-Mar-2019 21:52:42 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/wqymrfae/public_html/vh/image_server/img.php on line 7
+[23-Mar-2019 21:52:42 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 8
+[23-Mar-2019 21:52:42 UTC] PHP Notice:  Trying to get property of non-object in /home/wqymrfae/public_html/vh/image_server/img.php on line 11
+[23-Mar-2019 21:52:42 UTC] PHP Notice:  Undefined variable: image in /home/wqymrfae/public_html/vh/image_server/img.php on line 23
+[23-Mar-2019 21:57:29 UTC] PHP Notice:  Undefined variable: file in /home/wqymrfae/public_html/vh/image_server/save.php on line 30
+[23-Mar-2019 21:57:29 UTC] PHP Notice:  Use of undefined constant Date - assumed 'Date' in /home/wqymrfae/public_html/vh/image_server/save.php on line 70
+[23-Mar-2019 21:58:38 UTC] PHP Notice:  Undefined variable: file in /home/wqymrfae/public_html/vh/image_server/save.php on line 30
+[23-Mar-2019 21:58:38 UTC] PHP Notice:  Use of undefined constant Date - assumed 'Date' in /home/wqymrfae/public_html/vh/image_server/save.php on line 70
+[23-Mar-2019 22:17:07 UTC] PHP Notice:  Undefined variable: file in /home/wqymrfae/public_html/vh/image_server/save.php on line 30
+[23-Mar-2019 22:17:07 UTC] PHP Notice:  Use of undefined constant Date - assumed 'Date' in /home/wqymrfae/public_html/vh/image_server/save.php on line 70
