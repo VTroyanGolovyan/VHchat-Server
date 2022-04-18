@@ -30,6 +30,9 @@
             }
       }
       $controller = new wall_controller($mysqli,$USERID);
+      if (!isset($_POST['attachments'])) {
+         $_POST['attachments'] = '';
+      }
       if ($_GET['type'] == 'push'){
            $controller->push($_POST['text'],$mysqli->real_escape_string($_POST['attachments']));
       }

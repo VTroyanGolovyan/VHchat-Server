@@ -1,6 +1,6 @@
 <?php
     class Dialog{
-        public $dialogid;
+        public $dialog_id;
         public $dialog_table;
         public $dialog_name;
         public $dialog_img;
@@ -11,7 +11,11 @@
             $this->dialog_table = $dialog_table;
             $this->dialog_name = $dialog_name;
             $this->dialog_img = $dialog_img;
-            $this->last_msg = $last_msg;
+            if (is_null($last_msg)) {
+               $this->last_msg = '';
+            } else {
+               $this->last_msg = $last_msg;
+            }
             $this->unread = $unread;
         }
     }
@@ -20,7 +24,7 @@
     $rez = $mysqli->query($query);
     if(!$rez->num_rows == 0){
         //получаем информацию о диалогах
-        $query = 'SELECT * FROM `dialogs_info` WHERE ';
+        $query = 'SELECT *, id as dialogid FROM `dialogs_info` WHERE ';
         $i = 1;
         $n = $rez->num_rows;
         while( $row = $rez->fetch_assoc() ){

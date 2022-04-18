@@ -65,6 +65,7 @@ class Answer{
           $query = 'SELECT * FROM `photos` WHERE owner='.$id.' ORDER BY id DESC';
           $rez = $this->query($query);
           $i = 0;
+          $arr = array();
           while ($row = $rez->fetch_assoc()){
             $arr[$i++] = new Photo($row['id'],$row['owner'],$row['filename']);
           }
