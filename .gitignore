@@ -1,0 +1,5 @@
+server/db/*
+image_server/db/*
+avatars/*
+dialogs_imgs/*
+photos/*
